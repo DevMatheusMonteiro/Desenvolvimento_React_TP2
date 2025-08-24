@@ -1,12 +1,69 @@
-# React + Vite
+# Desenvolvimento Web com React - Teste de Performance 2 🎓
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém a resolução dos **exercícios de 1 a 16** da disciplina de Desenvolvimento Web com React.  
+O projeto foi desenvolvido utilizando conceitos fundamentais da biblioteca React e algumas bibliotecas auxiliares para estilização, roteamento e ícones.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- **React** ⚛️
+- **Styled-components** 🎨 (estilização de componentes com CSS-in-JS)
+- **React-router-dom** 🌐 (navegação entre páginas)
+- **React-icons** 🔥 (ícones prontos para uso)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📚 Competências Desenvolvidas
+
+Ao longo dos exercícios, foram praticados e consolidados conceitos como:
+
+- Criação e organização de componentes funcionais
+- Utilização de **props** e **state**
+- Hooks principais do React (**useState**, **useEffect**, **useMemo**)
+- Roteamento de páginas com **react-router-dom**
+- Consumo de **APIs externas** (ex.: IBGE)
+- Estilização com **styled-components**
+- Manipulação de listas e renderização condicional
+- Boas práticas de componentização e reutilização de código
+
+---
+
+## 📂 Estrutura do Projeto
+
+Os exercícios estão organizados em pastas numeradas de `1` a `16`, cada uma contendo a resolução proposta.
+Isso facilita a navegação e o entendimento de cada tema abordado.
+
+---
+
+## ▶️ Como Executar o Projeto
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/DevMatheusMonteiro/Desenvolvimento_React_TP2.git
+```
+
+Acesse a pasta do projeto:
+
+```bash
+cd Desenvolvimento_React_TP2
+```
+
+Instale as dependências:
+
+```bash
+npm install
+```
+
+Execute o projeto:
+
+```bash
+npm run dev
+```
+
+O projeto estará rodando em:
+
+```
+http://localhost:5173/
+```
