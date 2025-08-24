@@ -48,7 +48,7 @@ export default function AppRoutes() {
             element={<PageContainer main={page.element} />}
           />
         ))}
-        <Route path="*" element={<Ex01 />} />
+        <Route path="*" element={<PageContainer main={Ex01} />} />
       </Routes>
     </BrowserRouter>
   );
